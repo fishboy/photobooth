@@ -9,8 +9,10 @@ The code for my Raspberry Pi Photo Booth (lifted heavily from https://github.com
 4. Download the code
 5. Run:  `python camera.py`
 6. Photos will get saved to photos directory.  
-   - optionally sync photos to cloud using 
-
+   - optionally sync photos to cloud using rclone or similar
+7. automatically print photos to Canon Selphy photo printer, or Brother QL label printer (black/white)
+8. ....
+9. Profit!
 
 <img src=IMG_2529.JPG>
 
